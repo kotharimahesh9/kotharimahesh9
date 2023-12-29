@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Java, SQL, Apache Spark, Kubernetes, Docker, AWS, Python**
 
-- 📫 How to reach me **kotharimahesh9@gmail.com**
+- 📫 How to reach me : **kotharimahesh9@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
